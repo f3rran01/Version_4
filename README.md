@@ -23,8 +23,4 @@ URL https://youtu.be/KCSDD05bw8g
 
 Versión 4 generada por Ferran Ortega
 
-Versión 4 verificada por César Pizarro
 
-Versión 4 comunicada por David Miró
-
-URL: https://youtu.be/89mQN_JvTZI
